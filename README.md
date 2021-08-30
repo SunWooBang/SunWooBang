@@ -1,10 +1,10 @@
 # What's up!
 
-I'm Bang Sun Woo, a student who studies to become a Back-End developer.
+I'm **Bang Sun Woo**, a student who studies to become a Back-End developer.
 
- 👉 I majored in IT management, and I am majoring in computer engineering in double major. <br>
- 👉 I’m currently studying Web, especially Back-end. <br>
- 👉 I used to worked  at HAENASOFT as a corporate researcher for 4 months <br>
+ 👉 I majored in **IT management**, and I am majoring in **computer engineering** in double major. <br>
+ 👉 I’m currently studying Web, especially **Back-end**. <br>
+ 👉 I used to worked  at **HAENASOFT as a corporate researcher** for 4 months. <br>
  <br>
 
 <h2>✍Stack </h2><br>
