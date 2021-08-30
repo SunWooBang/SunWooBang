@@ -7,7 +7,7 @@ I'm **Bang Sun Woo**, a student who studies to become a Back-End developer.
  👉 I used to worked  at **HAENASOFT as a corporate researcher** for 4 months. <br>
  <br>
 
-<h2>✍Stack </h2><br>
+<h2>✍Stack </h2>
 <p>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -16,7 +16,7 @@ I'm **Bang Sun Woo**, a student who studies to become a Back-End developer.
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 </p>
-
+<br>
 
 <h2> 🙋‍♂️ME </h2>
 <a href="https://egg-stone.tistory.com/"><img src="https://img.shields.io/badge/tech_blog-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=내링크"/> &nbsp
