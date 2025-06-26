@@ -72,5 +72,3 @@ From police systems to nuclear research institutes, I've built and maintained re
 [![SunWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunWooBang&show_icons=true&theme=default)](https://github.com/SunWooBang)
 
 [![SunWoo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SunWooBang&theme=react-dark)](https://github.com/SunWooBang)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SunWooBang&theme=dark)](https://github.com/SunWooBang)
