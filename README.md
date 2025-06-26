@@ -69,4 +69,4 @@ From police systems to nuclear research institutes, I've built and maintained re
 
 ## 📈 Stats
 
-[![SunWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunWooBang&show_icons=true&theme=default)](https://github.com/SunWooBang)
+[![SunWoo's GitHub stats](https://github.com/anuraghazra/github-readme-stats/api?username=SunWooBang&show_icons=true&theme=default)](https://github.com/SunWooBang)
