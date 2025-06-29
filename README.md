@@ -6,7 +6,7 @@ From police systems to nuclear research institutes, I've built and maintained re
 ---
 
 ## 👨‍💻 About Me
-
+- 🤖 I am fascinated by developing with AI. I am actively exploring ways to leverage AI effectively.
 - 🎓 Majored in **IT Management**, double majored in **Software Engineering**
 - 🔐 Currently working on **Security Platforms**, including Spring Security, JWT, Redis session handling
 - 🧠 Proactive learner, fast adapter to new tech & domains
